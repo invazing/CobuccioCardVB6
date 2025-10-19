@@ -1,7 +1,7 @@
 
 # 💳 CobuccioCard - Grupo Adriano Cobuccio
 
-Sistema completo para **cadastro e gerenciamento de transações de cartão de crédito**, desenvolvido em **VB.NET CORE 8.0** com **SQL Server**.
+Sistema completo para **cadastro e gerenciamento de transações de cartão de crédito**, desenvolvido em **VB 6.0** com **SQL Server**.
 
 ---
 
