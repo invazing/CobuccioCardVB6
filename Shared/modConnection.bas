@@ -23,7 +23,7 @@ Public Function OpenConnection() As Boolean
 
         Dim strConn As String
     
-108     strConn = "Provider=SQLOLEDB;Data Source=192.168.100.38;Initial Catalog=cobucciocard;User ID=cobuccio;Password=A@kB]vxW12u2025;TrustServerCertificate=Yes;"
+108     strConn = "Provider=SQLOLEDB;Data Source=192.168.100.1;Initial Catalog=cobucciocard;User ID=cobuccio;Password=A@kB]vxW12u2025;TrustServerCertificate=Yes;"
 
 110     cn.Open strConn
 

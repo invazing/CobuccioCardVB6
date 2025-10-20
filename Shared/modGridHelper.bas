@@ -423,6 +423,8 @@ Public Sub ConfigurarGridResumoFinanceiro(ByRef grid As MSFlexGrid)
 
         '</EhHeader>
 
+        On Error Resume Next
+        
 100     With grid
 102         .Clear
 104         .Rows = 1

@@ -135,9 +135,9 @@ Private Sub MenuDados_Click(Index As Integer)
 
         '</EhHeader>
     
-100     If MsgBox("Deseja gerar 100 registros de transações?", vbYesNo + vbQuestion, "Gerar Transações") = vbYes Then
+100     If MsgBox("Deseja gerar 1000 registros de transações?", vbYesNo + vbQuestion, "Gerar Transações") = vbYes Then
         
-102         Call GerarTransacoes(100)
+102         Call GerarTransacoes(1000)
 
         End If
         
